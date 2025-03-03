@@ -13,3 +13,4 @@ the battery carrying capacity of type k rebalancing vehicle (C),
 the number of battery replacements for e-bikes at the nodes/stations (b), 
 the unit distance cost of type k rebalancing vehicle (beta) (unit is cost/distance), 
 the fixed cost of using type k rebalancing vehicle (f).
+The number at the end of the file name indicates the number of rebalancing vehicle types in the problem. Namely, Real1_7_7_5_2V.dat has 2 different types of rebalancing vehicles. 
